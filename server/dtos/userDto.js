@@ -1,11 +1,13 @@
 module.exports = class UserDto {
     email
     id
-    isActivated
+    fio
+    phoneNumber
 
     constructor(model) {
         this.email = model.email
         this.id = model.id
-        this.isActivated = model.isActivated
+        this.fio = model.fio
+        this.phoneNumber = model.phoneNumber
     }
 }
