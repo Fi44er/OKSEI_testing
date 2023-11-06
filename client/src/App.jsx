@@ -5,7 +5,7 @@ import Lk from "./page/Lk/Lk";
 import Home from "./page/home/Home";
 import SignIn from "./page/signIn/SignIn";
 import Login from "./page/login/Login";
-import Account from "./page/account/account";
+import Account from "./page/account/Account";
 
 function App() {
   return (
