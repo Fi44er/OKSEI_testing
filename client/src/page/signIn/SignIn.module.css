@@ -1,0 +1,39 @@
+.signInMain {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding-top: 150px;
+}
+.signInMain div h1 {
+  font-size: 55px;
+}
+.signInInside {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+.signInInside input {
+  width: 80%;
+  height: 50px;
+  border: 2.5px solid #c1c8e4;
+  border-radius: 15px;
+  margin: 15px 0;
+  padding: 10px;
+}
+.signInInside button {
+  width: 80%;
+  height: 50px;
+  border: 2.5px solid #c1c8e4;
+  border-radius: 15px;
+}
+
+.signInInside a {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  background: none;
+  border: 5px solid #c1c8e4;
+  border-radius: 15px;
+  font-size: 18px;
+}

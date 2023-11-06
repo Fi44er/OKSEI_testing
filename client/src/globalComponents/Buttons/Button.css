@@ -1,0 +1,11 @@
+.compButton_1i {
+    border-radius: 10px;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.compButton_1i:hover {
+    opacity: 10;
+}
